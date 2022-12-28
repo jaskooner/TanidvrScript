@@ -16,6 +16,8 @@ Also found at [Tani Sourceforge](https://tanidvr.sourceforge.net/)
 
 - Example files are included.
 
+- Shell and Text files you created must be added to the TaniScript.csproj file, within the ItemGroup. 
+
 ---
 
 #### <u>Notes</u>
