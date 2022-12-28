@@ -17,5 +17,8 @@
     <None Include="/home/jaskooner/src/TaniScript/pollok_cams.sh">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+     <None Include="/home/jaskooner/src/TaniScript/cam_files.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 </Project>
