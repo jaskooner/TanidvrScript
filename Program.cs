@@ -16,7 +16,6 @@ string[] lines = File.ReadAllLines("cam_files.txt");
 
 
 // Starting cams
-List<Thread> threads = new List<Thread>();
 foreach (string line in lines)
 {
     // Starting cameras
